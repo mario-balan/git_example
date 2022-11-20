@@ -1,1 +1,1 @@
-este é um oi para a picopi.
+este é um oi para a pi
